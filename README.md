@@ -7,7 +7,7 @@
 ```git clone https://github.com/lnc0119/order-web.git```
 
 2. 進入專案目錄
-```cd orderWeb```
+```cd order-web```
 
 3. 安裝所需套件
 ```npm install```
